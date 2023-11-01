@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/StatusBar.qml</file>
+        <file>qml/HelpDialog.qml</file>
+        <file>qml/SidePanel.qml</file>
+        <file>qml/FileListPane.qml</file>
+        <file>loop-24px.svg</file>
+        <file>close-24px.svg</file>
+        <file>icons/folder_open_black_24dp.svg</file>
+        <file>icons/layers_clear_black_24dp.svg</file>
+        <file>icons/batch_prediction_black_24dp.svg</file>
+        <file>icons/online_prediction_black_24dp.svg</file>
+        <file>icons/menu_black_24dp.svg</file>
+        <file>icons/label_black_24dp.svg</file>
+        <file>icons/lightbulb_black_24dp.svg</file>
+        <file>icons/analytics_black_24dp.svg</file>
+        <file>icons/info_black_24dp.svg</file>
+    </qresource>
+</RCC>
